@@ -1,4 +1,4 @@
-name: Compilar Next PDF
+name: Compilar Readnex
 
 on:
   workflow_dispatch:
@@ -21,6 +21,6 @@ jobs:
     with:
       proyecto: pdfcraft
       upstream: storytold/pdfcraft
-      nombre: Next PDF
+      nombre: Readnex
       ref: ${{ inputs.ref }}
       publicar: ${{ inputs.publicar }}

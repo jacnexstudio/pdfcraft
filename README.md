@@ -1,4 +1,4 @@
-# Next PDF
+# Readnex
 
 Leer, organizar y proteger PDF. Parte de la suite Jacnex.
 
